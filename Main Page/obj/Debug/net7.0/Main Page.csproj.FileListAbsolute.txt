@@ -1,0 +1,44 @@
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.deps.json
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.runtimeconfig.json
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.dll
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.pdb
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.csproj.AssemblyReference.cache
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.AssemblyInfoInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.AssemblyInfo.cs
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.csproj.CoreCompileInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.dll
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/refint/Main Page.dll
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.pdb
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.genruntimeconfig.cache
+/Users/sebastiansteiner/Documents/GitHub/Quiz-Programm/Main Page/obj/Debug/net7.0/ref/Main Page.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.deps.json
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.runtimeconfig.json
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/bin/Debug/net7.0/Main Page.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.csproj.AssemblyReference.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.AssemblyInfoInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.AssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.csproj.CoreCompileInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/refint/Main Page.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/Main Page.genruntimeconfig.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/Quiz-Programm/Main Page/obj/Debug/net7.0/ref/Main Page.dll
+G:\Code\VS\Library\Quiz-Programm\Main Page\bin\Debug\net7.0\Main Page.exe
+G:\Code\VS\Library\Quiz-Programm\Main Page\bin\Debug\net7.0\Main Page.deps.json
+G:\Code\VS\Library\Quiz-Programm\Main Page\bin\Debug\net7.0\Main Page.runtimeconfig.json
+G:\Code\VS\Library\Quiz-Programm\Main Page\bin\Debug\net7.0\Main Page.dll
+G:\Code\VS\Library\Quiz-Programm\Main Page\bin\Debug\net7.0\Main Page.pdb
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.AssemblyInfoInputs.cache
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.AssemblyInfo.cs
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.csproj.CoreCompileInputs.cache
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.dll
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\refint\Main Page.dll
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.pdb
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\Main Page.genruntimeconfig.cache
+G:\Code\VS\Library\Quiz-Programm\Main Page\obj\Debug\net7.0\ref\Main Page.dll

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Main_Page</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Description of Games\" />
+    <None Remove="Design\" />
+    <None Remove="Messages\" />
+    <None Remove="Guess Number\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Description of Games\" />
+    <Folder Include="Design\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Guess Number\" />
+  </ItemGroup>
+</Project>
